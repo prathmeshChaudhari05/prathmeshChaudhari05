@@ -1,4 +1,4 @@
-<h2 align="center">Hi Floks, I'm Prathmesh Chaudhari 👋</h2>
+<h2 align="center">Hi Floks, I'm Prathmesh Chaudhari <img src="https://github.com/prathmeshChaudhari05/prathmeshChaudhari05/blob/main/wave-hand-unscreen.gif" height="25" width="25"></h2>
 
 <h4 align="left">
 - 🌱 I’m currently a Student at Sinhgad College of Engineering, Pune (PUNE UNIVERSITY)<br><br>
