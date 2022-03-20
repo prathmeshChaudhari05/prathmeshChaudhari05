@@ -1,9 +1,12 @@
-### Hi Floks, I'm Prathmesh Chaudhari 👋
-- 🌱 I’m currently a Student at Sinhgad College of Engineering, Pune (PUNE UNIVERSITY)
+<h2 align="center">Hi Floks, I'm Prathmesh Chaudhari 👋</h2>
+
+<h4 align="left">
+- 🌱 I’m currently a Student at Sinhgad College of Engineering, Pune (PUNE UNIVERSITY)<br><br>
 - 📫 How to reach me: 
   <a href="https://www.linkedin.com/in/prathmeshchaudhari05/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
   <a href="https://instagram.com/prathmeshChaudhari05" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-
+</h4>
+  
 <hr>
 <h3 align="center">
 Technology Stack
@@ -26,6 +29,8 @@ Technology Stack
 <h3 align="center">
 My GitHub Stats
 </h3>
+
+
 
 <p align="center">
   
