@@ -1,8 +1,8 @@
 ### Hi Floks, I'm Prathmesh Chaudhari 👋
 - 🌱 I’m currently a Student at Sinhgad College of Engineering, Pune (PUNE UNIVERSITY)
 - 📫 How to reach me: 
-  <a href="https://www.linkedin.com/in/prathmeshchaudhari05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="30" width="30" /></a>
-  <a href="https://instagram.com/prathmeshChaudhari05" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/prathmeshchaudhari05/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+  <a href="https://instagram.com/prathmeshChaudhari05" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 <hr>
 <h3 align="center">
